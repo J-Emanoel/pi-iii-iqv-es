@@ -1,4 +1,0 @@
-data/raw/despesas-2025_1semestre.csv
-data/raw/despesas-2025_2semestre.csv
-data/raw/municipios-despesas-2025.csv
-data/raw/municipios-receitas-2025.csv
