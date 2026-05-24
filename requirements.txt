@@ -1,4 +1,5 @@
 streamlit
 plotly
-geobr
 geopandas
+geobr
+pandas
