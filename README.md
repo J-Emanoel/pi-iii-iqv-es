@@ -1,5 +1,5 @@
 # 📊 Projeto Integrador III: IQV-ES
-ENTREGA C2 : https://www.youtube.com/watch?v=JZOxNYqBbYU
+-ENTREGA C2 : https://www.youtube.com/watch?v=JZOxNYqBbYU
 # 📊 MVP: IQV-ES (Índice de Qualidade de Vida Municipal - Espírito Santo)
 
 ## 🎯 Sobre o Produto Final
