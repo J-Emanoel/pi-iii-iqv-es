@@ -394,7 +394,10 @@ st.markdown("""
 # ==========================================
 @st.cache_data
 def carregar_dados():
-    df = pd.read_csv('data/processed/IQV_ES_Final.csv', sep=';', encoding='utf-8')
+    import os
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    csv_path = os.path.join(BASE_DIR, 'data', 'processed', 'IQV_ES_Final.csv')
+    df = pd.read_csv(csv_path, sep=';', encoding='utf-8')
     df['IQV_ES_Score'] = df['IQV_ES_Score'].round(2)
     df['POPULAÇÃO ESTIMADA'] = df['POPULAÇÃO ESTIMADA'].astype(str).str.replace('.', '').astype(int)
 
