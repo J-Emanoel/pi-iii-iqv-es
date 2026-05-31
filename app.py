@@ -113,6 +113,17 @@ opcoes_metricas = {
 }
 
 # ==========================================
+# SIDEBAR
+# ==========================================
+with st.sidebar:
+    st.markdown("## 📊 Sobre o IQV-ES")
+    st.info(
+        "Este painel interativo cruza indicadores de segurança, finanças e o perfil "
+        "sociodemográfico dos municípios capixabas."
+    )
+    st.markdown("---")
+    st.markdown("**Versão:** 1.0.1")
+# ==========================================
 # HEADER
 # ==========================================
 st.markdown('<div class="title-text">Índice de Qualidade de Vida (IQV-ES)</div>', unsafe_allow_html=True)
