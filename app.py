@@ -289,3 +289,13 @@ with tab_dados:
     df_tabela = df_iqv[colunas_tabela].sort_values('IQV_ES_Score', ascending=False).reset_index(drop=True)
     df_tabela.index += 1
     st.dataframe(df_tabela, use_container_width=True)
+
+    # Adicionando botão de download da tabela
+    st.markdown("<br>", unsafe_allow_html=True)
+    csv = df_tabela.to_csv(index=False, sep=';', encoding='utf-8').encode('utf-8')
+    st.download_button(
+        label="📥 Baixar Tabela de Dados (CSV)",
+        data=csv,
+        file_name='iqv_es_consolidado.csv',
+        mime='text/csv',
+    )
