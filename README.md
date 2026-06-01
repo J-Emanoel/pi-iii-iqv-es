@@ -1,5 +1,5 @@
 # 📊 Projeto Integrador III: MVP IQV-ES 
-**(Índice de Qualidade de Vida Municipal - Espírito Santo)**
+**(Índice de Qualidade de Vida Municipal - Espírito Santo)*
 
 🔗 **Link de Visualização (App):** [Acesse o painel aqui](https://visualizacaoprojint.streamlit.app/)
 📺 **Entrega C2:** [Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=JZOxNYqBbYU)
