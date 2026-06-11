@@ -3,7 +3,7 @@
 
 🔗 **Link de Visualização (App):** [Acesse o painel aqui](https://visualizacaoprojint.streamlit.app/)
 📺 **Entrega C2:** [Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=JZOxNYqBbYU)
-📺 **Apresentação do MVP (C3):** *[Insira o link de vídeo do Youtube/Drive aqui]*
+📺 **Apresentação do MVP (C3):** *[Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=sI3uiGJAw24)
 
 ## 🎯 Sobre o Produto Final
 O **IQV-ES** é uma ferramenta analítica desenvolvida para avaliar o impacto da execução orçamental da saúde pública nos índices de segurança dos 78 municípios capixabas. Este repositório contém a demonstração completa da solução, exigida como entrega C3 do Projeto Integrador III.
